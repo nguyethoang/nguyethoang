@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Nguyet Hoang 👋
 
-<!--
-**nguyethoang/nguyethoang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Product & Innovation Leader | AI Builder | Startup Mentor
 
-Here are some ideas to get you started:
+I enjoy building AI-powered applications that simplify everyday problems and create engaging digital experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects
+
+### 🌍 Travel Planning App
+AI-powered itinerary planner that helps travelers organize their entire journey effortlessly.
+
+Repository  
+https://travel-planning-tau.vercel.app/
+
+---
+
+### 👧 Giggle Chat
+A safe chat application for kids to communicate with friends and cousins in small private circles, with parental control and oversight.
+
+Repository  
+https://giggle-chat-chi.vercel.app/auth
+
+---
+
+### 💪 FitnessBet
+An app designed to motivate healthy habits through fitness challenges and social accountability.
+
+Status: Private repository
+
+---
+
+## 🛠 Tech
+
+TypeScript • React • Python • Vite • AI tools • Web apps
+
+---
+
+## 📫 Connect
+
+GitHub: https://github.com/nguyethoang
